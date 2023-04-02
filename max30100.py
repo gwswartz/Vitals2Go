@@ -1,5 +1,3 @@
-
-
 import smbus
 
 INT_STATUS   = 0x00  # Which interrupts are tripped
